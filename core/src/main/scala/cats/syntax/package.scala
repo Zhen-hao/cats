@@ -8,6 +8,7 @@ package object syntax {
   object apply extends ApplySyntax
   object arrow extends ArrowSyntax
   object arrowChoice extends ArrowChoiceSyntax
+  object autoCompose extends AutoCompositionSyntax
   object bifunctor extends BifunctorSyntax
   object bifoldable extends BifoldableSyntax
   object bitraverse extends BitraverseSyntax
